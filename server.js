@@ -66,7 +66,6 @@ const DB_URL ='mongodb+srv://slmun:slmun@cluster0.h0qecvi.mongodb.net/?retryWrit
 const PORT = process.env.PORT || 8000;
 
 
-
 // const {
 //     HOST,
 //     PORT,
